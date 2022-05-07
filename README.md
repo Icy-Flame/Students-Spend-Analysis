@@ -18,6 +18,7 @@ The necessary data was first put into MS Excel and afterwards import that data t
 
 
 ### Data Model
+![data_model](https://github.com/Icy-Flame/Students-Spend-Analysis/blob/main/Data_Model.png)
 
 
 
