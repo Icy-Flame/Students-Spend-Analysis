@@ -1,6 +1,6 @@
 # Students-Spend-Analysis
 ## About The Project
-The motivatiom=n behind this project is to analyze the student's spending pattern on different kind of purchases like Video games,Indoor games, Toys, Books, Gadgets etc.
+The motivation behind this project is to analyze the student's spending pattern on different kind of purchases like Video games,Indoor games, Toys, Books, Gadgets etc.
 
 
 
